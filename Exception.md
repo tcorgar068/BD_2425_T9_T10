@@ -118,7 +118,7 @@ EXCEPTION
 END $$;
 ```
 
-Perfecto, vamos a profundizar un poco más. Dividiré la explicación en tres partes:
+Vamos a profundizar un poco más:
 
 ---
 
